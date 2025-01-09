@@ -10,9 +10,10 @@
 
 ### Project: PORTFOLIO WEBSITE WITH ADVANCED ANIMATION
 
-![image alt](https://github.com/user-attachments/assets/1460b090-6b98-4b4f-a068-586c8a2056f8)
-![image alt](https://github.com/user-attachments/assets/5ead8c2a-6166-4116-ba13-0081e1c1cd4c)
 ![image alt](https://github.com/user-attachments/assets/c8a72025-fc32-443d-a8e5-500463dc6d1c)
+![image alt](https://github.com/user-attachments/assets/5ead8c2a-6166-4116-ba13-0081e1c1cd4c)
+![image alt](https://github.com/user-attachments/assets/1460b090-6b98-4b4f-a068-586c8a2056f8)
+
 
 
 
